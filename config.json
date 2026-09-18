@@ -6,9 +6,9 @@
   "language": "ar",
   "timezone": "Africa/Algiers",
 
-  "ownerID": "100012345678",
-  "adminBot": [100004505559262],
-  "superAdminBot": [100004505559262],
+  "ownerID": "61593631507524",
+  "adminBot": [61593631507524],
+  "superAdminBot": [61593631507524],
 
   "adminOnly": {
     "enable": true,
